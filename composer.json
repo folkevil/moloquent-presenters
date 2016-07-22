@@ -1,5 +1,5 @@
 {
-  "name": "pingpong/presenters",
+  "name": "folkevil/moloquent-presenters",
   "description": "Laravel Presenter",
   "keywords": [
     "laravel",
@@ -25,5 +25,5 @@
       "Pingpong\\Presenters\\": ""
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }
